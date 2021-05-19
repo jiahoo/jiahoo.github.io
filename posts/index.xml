@@ -3,7 +3,14 @@
         <title>All Posts - </title>
         <link>https://jiahoo.github.io/posts/</link>
         <description>All Posts | </description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 19 May 2021 10:38:53 &#43;0800</lastBuildDate><atom:link href="https://jiahoo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 19 May 2021 16:00:04 &#43;0800</lastBuildDate><atom:link href="https://jiahoo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Second_post</title>
+    <link>https://jiahoo.github.io/second_post/</link>
+    <pubDate>Wed, 19 May 2021 16:00:04 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://jiahoo.github.io/second_post/</guid>
+    <description><![CDATA[This is a title. This is another one. ]]></description>
+</item><item>
     <title>First_post</title>
     <link>https://jiahoo.github.io/first_post/</link>
     <pubDate>Wed, 19 May 2021 10:38:53 &#43;0800</pubDate>
